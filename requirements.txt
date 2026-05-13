@@ -1,0 +1,11 @@
+# Python-Abhängigkeiten für den Produktionslauf
+# Stand: Masterarbeit Horsthemke 2026
+
+# Numerik und Plotting
+numpy>=1.24
+matplotlib>=3.7
+
+# SUMO-Pakete (traci, sumolib) werden mit SUMO 1.26.0 mitgeliefert.
+# Sicherstellen, dass $SUMO_HOME/tools im PYTHONPATH liegt.
+#   export SUMO_HOME=/path/to/sumo
+#   export PYTHONPATH=$PYTHONPATH:$SUMO_HOME/tools

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="2682026529" name="Festhalle/Messe" lane="60734091#1_0" startPos="809.55" endPos="919.55" friendlyPos="1" lines="U4">
+        <access lane="60734091#1_1" pos="864.60" length="2" />
+        <access lane="262540237#2_1" pos="77.20" length="30" />
+    </busStop>
+    <busStop id="2682026530" name="Festhalle/Messe" lane="262540237#2_0" startPos="22.24" endPos="132.24" friendlyPos="1" lines="U4">
+        <access lane="262540237#2_1" pos="77.20" length="2" />
+        <access lane="60734091#1_1" pos="864.60" length="30" />
+    </busStop>
+    <busStop id="2682026582" name="Bockenheimer Warte" lane="1238346189_0" startPos="21.64" endPos="131.64" friendlyPos="1" lines="U4">
+        <access lane="1238346189_1" pos="76.64" length="2" />
+        <access lane="440748774#2_1" pos="108.87" length="30" />
+    </busStop>
+    <busStop id="2683735885" name="Willy-Brandt-Platz" lane="60734109_0" startPos="717.12" endPos="827.12" friendlyPos="1" lines="U4 U5">
+        <access lane="60734109_1" pos="772.10" length="2" />
+        <access lane="560679910#1_1" pos="641.60" length="30" />
+    </busStop>
+    <busStop id="2683735886" name="Willy-Brandt-Platz" lane="560679910#1_0" startPos="586.58" endPos="696.58" friendlyPos="1" lines="U4 U5">
+        <access lane="560679910#1_1" pos="641.60" length="2" />
+        <access lane="60734109_1" pos="772.10" length="30" />
+    </busStop>
+    <busStop id="2683735889" name="Dom/Römer" lane="60734112#1_0" startPos="594.35" endPos="704.35" friendlyPos="1" lines="U4 U5">
+        <access lane="60734112#1_1" pos="649.40" length="2" />
+        <access lane="60698617#1_1" pos="419.70" length="30" />
+    </busStop>
+    <busStop id="2683735890" name="Dom/Römer" lane="60698617#1_0" startPos="364.73" endPos="474.73" friendlyPos="1" lines="U4 U5">
+        <access lane="60698617#1_1" pos="419.70" length="2" />
+        <access lane="60734112#1_1" pos="649.40" length="30" />
+    </busStop>
+    <busStop id="2683735937" name="Johanna-Tesch-Platz" lane="60697780#3_0" startPos="563.09" endPos="588.09" friendlyPos="1" lines="U7" />
+    <busStop id="2683736001" name="Schäfflestraße" lane="543518109#0_0" startPos="75.78" endPos="185.78" friendlyPos="1" lines="U4 U7" />
+    <busStop id="2683736004" name="Schäfflestraße" lane="38330661#4_0" startPos="41.23" endPos="151.23" friendlyPos="1" lines="U7 U4" />
+    <busStop id="2683736298" name="Gwinnerstraße" lane="60752860#1_0" startPos="487.33" endPos="597.33" friendlyPos="1" lines="U4 U7" />
+    <busStop id="2683736300" name="Gwinnerstraße" lane="543513270#1_0" startPos="363.97" endPos="473.97" friendlyPos="1" lines="U7 U4" />
+    <busStop id="2683736305" name="Seckbacher Landstraße" lane="5062172_0" startPos="2554.82" endPos="2664.82" friendlyPos="1" lines="U4">
+        <access lane="5062172_1" pos="2609.80" length="2" />
+        <access lane="60752827_1" pos="161.60" length="30" />
+    </busStop>
+    <busStop id="2683736306" name="Seckbacher Landstraße" lane="60752827_0" startPos="106.63" endPos="216.63" friendlyPos="1" lines="U4">
+        <access lane="60752827_1" pos="161.60" length="2" />
+        <access lane="5062172_1" pos="2609.80" length="30" />
+    </busStop>
+    <busStop id="2683736511" name="Kruppstraße" lane="543511199_0" startPos="45.00" endPos="155.00" friendlyPos="1" lines="U4 U7" />
+    <busStop id="2683736512" name="Kruppstraße" lane="543509560#2_0" startPos="561.86" endPos="671.86" friendlyPos="1" lines="U7 U4" />
+    <busStop id="2683736519" name="Hessen-Center" lane="543511199_0" startPos="516.42" endPos="626.42" friendlyPos="1" lines="U4 U7" />
+    <busStop id="2683736520" name="Hessen-Center" lane="543509560#2_0" startPos="88.66" endPos="198.66" friendlyPos="1" lines="U7 U4" />
+    <busStop id="2683736529" name="Enkheim" lane="543509561#2_0" startPos="18.11" endPos="128.11" friendlyPos="1" lines="U4 U7" />
+    <busStop id="2683736530" name="Enkheim" lane="1238346191_0" startPos="0.00" endPos="99.15" friendlyPos="1" lines="U7 U4" />
+    <busStop id="29271560" name="Hauptbahnhof" lane="60698616#1_0" startPos="39.09" endPos="149.09" friendlyPos="1" lines="U4 U5">
+        <access lane="60698616#1_1" pos="94.10" length="2" />
+        <access lane="262540239#1_1" pos="61.10" length="30" />
+    </busStop>
+    <busStop id="29271742" name="Höhenstraße" lane="5062172_0" startPos="1083.51" endPos="1193.51" friendlyPos="1" lines="U4">
+        <access lane="5062172_1" pos="1138.50" length="2" />
+        <access lane="60752827_1" pos="1630.70" length="30" />
+    </busStop>
+    <busStop id="29271744" name="Bornheim Mitte" lane="5062172_0" startPos="1657.65" endPos="1767.65" friendlyPos="1" lines="U4">
+        <access lane="5062172_1" pos="1712.70" length="2" />
+        <access lane="60752827_1" pos="1056.60" length="30" />
+    </busStop>
+    <busStop id="3385060043" name="Bockenheimer Warte" lane="440748774#2_0" startPos="53.87" endPos="163.87" friendlyPos="1" lines="U4">
+        <access lane="440748774#2_1" pos="108.87" length="2" />
+        <access lane="1238346189_1" pos="76.64" length="30" />
+    </busStop>
+    <busStop id="5295358548" name="Merianplatz" lane="5062172_0" startPos="514.65" endPos="624.65" friendlyPos="1" lines="U4">
+        <access lane="5062172_1" pos="569.70" length="2" />
+        <access lane="60752827_1" pos="2199.70" length="30" />
+    </busStop>
+    <busStop id="759424469" name="Konstablerwache" lane="60752827_0" startPos="3057.35" endPos="3167.35" friendlyPos="1" lines="U4">
+        <access lane="60752827_1" pos="3112.40" length="2" />
+        <access lane="1414296215#1_1" pos="62.00" length="30" />
+    </busStop>
+    <busStop id="760309033" name="Konstablerwache" lane="409986815_0" startPos="195.98" endPos="305.98" friendlyPos="1" lines="U5" />
+    <busStop id="760309208" name="Hauptbahnhof" lane="60734103#3_0" startPos="197.84" endPos="307.84" friendlyPos="1" lines="U4" />
+    <busStop id="760309227" name="Konstablerwache" lane="1414296215#1_0" startPos="6.96" endPos="116.95" friendlyPos="1" lines="U4 U5">
+        <access lane="1414296215#1_1" pos="62.00" length="2" />
+        <access lane="60752827_1" pos="3112.40" length="30" />
+    </busStop>
+    <busStop id="760309241" name="Hauptbahnhof" lane="262540239#1_0" startPos="6.06" endPos="116.06" friendlyPos="1" lines="U5">
+        <access lane="262540239#1_1" pos="61.10" length="2" />
+        <access lane="60698616#1_1" pos="94.10" length="30" />
+    </busStop>
+    <busStop id="760458235" name="Höhenstraße" lane="60752827_0" startPos="1575.71" endPos="1685.71" friendlyPos="1" lines="U4">
+        <access lane="60752827_1" pos="1630.70" length="2" />
+        <access lane="5062172_1" pos="1138.50" length="30" />
+    </busStop>
+    <busStop id="760458240" name="Bornheim Mitte" lane="60752827_0" startPos="1001.56" endPos="1111.56" friendlyPos="1" lines="U4">
+        <access lane="60752827_1" pos="1056.60" length="2" />
+        <access lane="5062172_1" pos="1712.70" length="30" />
+    </busStop>
+    <busStop id="760458315" name="Merianplatz" lane="60752827_0" startPos="2144.69" endPos="2254.69" friendlyPos="1" lines="U4">
+        <access lane="60752827_1" pos="2199.70" length="2" />
+        <access lane="5062172_1" pos="569.70" length="30" />
+    </busStop>
+</additional>

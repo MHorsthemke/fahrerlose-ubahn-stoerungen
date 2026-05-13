@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-04T15:47:44.041927+01:00 by Eclipse SUMO netedit 1.25.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType
+    id="SUBWAY"
+    length="50.00"
+    maxSpeed="19.44"
+    vClass="subway"
+    guiShape="rail"
+    carFollowModel="Rail"
+    minGap="1.0"
+    tau="0.6"
+    accel="0.8"
+    decel="1.0"/>
+
+    <!-- ZUB+-Fussgaenger-Type: rote Farbe + etwas vergroesserte Dimension
+         (5x5 m) fuer bessere Sichtbarkeit. Kamera wird bei Dispatch per
+         TraCI auf 3500-Zoom gesetzt, sodass der Punkt klar erkennbar ist. -->
+    <vType
+    id="ZUB_PED"
+    vClass="pedestrian"
+    length="5.0"
+    width="5.0"
+    height="2.0"
+    color="255,0,0"
+    guiShape="pedestrian"/>
+    
+    <!-- Routes -->
+    <!--
+    <route id="r_0" edges="-60734138#3 -60734139 -60734096#0 1238346189 60734091#1 60734103#1 60734103#2 60540209#1 60734100 262540236 
+    262540239#0 262540239#1 262540239#2 60734109 60734112#1 60734124 1414296215#0 1414296215#1 1414296215#2 5062172 547635474#0 547635474#1 
+    60751800 262721393 262721461 262721462 262721395 397829755#0 397832925#0 397832925#1 397832925#2 543518109#0 60752860#1 543511199 
+    543509561#1 -60697803 -543509560#0 -543503600 543503600 1238346191 543509560#1 543509560#2 543513270#1 38330661#3 38330661#4 -397832924 
+    397829754#0 262721460 262721413 547635475 60752827 409986816#1 60698617#0 60698617#1 560679910#1 60734119#1 60698616#1 60698616#2 
+    262540233 262540234 262540235 262540237#0 262540237#1 262540237#2 440748774#1 440748774#2 60734138#0 60734138#1 60734138#2 60734138#3" 
+    repeat="5" 
+    cycleTime="4500.00">
+        <stop busStop="2682026582" duration="20.00"/>
+        <stop busStop="2682026529" duration="20.00"/>
+        <stop busStop="760309241" duration="20.00"/>
+        <stop busStop="2683735885" duration="20.00"/>
+        <stop busStop="2683735889" duration="20.00"/>
+        <stop busStop="760309227" duration="20.00"/>
+        <stop busStop="5295358548" duration="20.00"/>
+        <stop busStop="29271742" duration="20.00"/>
+        <stop busStop="29271744" duration="20.00"/>
+        <stop busStop="2683736305" duration="20.00"/>
+        <stop busStop="2683736001" duration="20.00"/>
+        <stop busStop="2683736298" duration="20.00"/>
+        <stop busStop="2683736511" duration="20.00"/>
+        <stop busStop="2683736519" duration="20.00"/>
+        <stop busStop="2683736530" duration="20.00"/>
+        <stop busStop="2683736520" duration="20.00"/>
+        <stop busStop="2683736512" duration="20.00"/>
+        <stop busStop="2683736300" duration="20.00"/>
+        <stop busStop="2683736004" duration="20.00"/>
+        <stop busStop="2683736306" duration="20.00"/>
+        <stop busStop="760458240" duration="20.00"/>
+        <stop busStop="760458235" duration="20.00"/>
+        <stop busStop="760458315" duration="20.00"/>
+        <stop busStop="759424469" duration="20.00"/>
+        <stop busStop="2683735890" duration="20.00"/>
+        <stop busStop="2683735886" duration="20.00"/>
+        <stop busStop="29271560" duration="20.00"/>
+        <stop busStop="2682026530" duration="20.00"/>
+        <stop busStop="3385060043" duration="20.00"/>
+    </route>
+    -->
+
+    <!-- cycleTime Kurzstrecke unklar!!!!!!!! -->
+    <route id="r_1" edges="-60734138#3 -60734139 -60734096#0 1238346189 60734091#1 60734103#1 60734103#2 60540209#1 60734100 262540236 
+    262540239#0 262540239#1 262540239#2 60734109 60734112#1 60734124 1414296215#0 1414296215#1 1414296215#2 5062172 60752821#0 60752826#0 
+    60752826#1 60752829#2 -60752829#2 -60752829#1 -60752829#0 60752827 409986816#1 60698617#0 60698617#1 560679910#1 60734119#1 60698616#1 
+    60698616#2 262540233 262540234 262540235 262540237#0 262540237#1 262540237#2 440748774#1 440748774#2 60734138#0 60734138#1 60734138#2 
+    60734138#3"
+    repeat="12"
+    cycleTime="1000.00">
+    <stop busStop="2682026582" duration="20.00"/>
+        <stop busStop="2682026529" duration="20.00"/>
+        <stop busStop="760309241" duration="20.00"/>
+        <stop busStop="2683735885" duration="20.00"/>
+        <stop busStop="2683735889" duration="20.00"/>
+        <stop busStop="760309227" duration="20.00"/>
+        <stop busStop="5295358548" duration="20.00"/>
+        <stop busStop="29271742" duration="20.00"/>
+        <stop busStop="29271744" duration="20.00"/>
+        <stop busStop="2683736305" duration="20.00"/> 
+        <stop busStop="2683736306" duration="20.00"/> 
+        <stop busStop="760458240" duration="20.00"/>
+        <stop busStop="760458235" duration="20.00"/>
+        <stop busStop="760458315" duration="20.00"/>
+        <stop busStop="759424469" duration="20.00"/>
+        <stop busStop="2683735890" duration="20.00"/>
+        <stop busStop="2683735886" duration="20.00"/>
+        <stop busStop="29271560" duration="20.00"/>
+        <stop busStop="2682026530" duration="20.00"/>
+        <stop busStop="3385060043" duration="20.00"/>
+    </route>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <!--
+    <vehicle id="u4_0" type="SUBWAY" depart="60.00" route="r_0"/>
+    -->
+    <vehicle id="u4_1" type="SUBWAY" depart="100.00" route="r_1" line="U4"/>
+
+</routes>
