@@ -1,5 +1,7 @@
 # Fahrerlose U-Bahn: Reaktion auf Störungen
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20160020.svg)](https://doi.org/10.5281/zenodo.20160020)
+
 Simulationscode zur Masterarbeit *Entwicklung und Analyse einer Störungssimulation
 zur Abbildung einer Beispielstörung im U-Bahn-Betrieb mit SUMO* (Horsthemke, 2026).
 
@@ -17,6 +19,8 @@ bis zum Eintreffen einer Eingriffsperson am ausgefallenen Zug.
 
 ## Zitation
 
+**Masterarbeit:**
+
 ```
 Horsthemke, M. (2026). Entwicklung und Analyse einer Störungssimulation
 zur Abbildung einer Beispielstörung im U-Bahn-Betrieb mit SUMO.
@@ -25,8 +29,12 @@ Masterarbeit, Technische Universität Braunschweig.
 
 Die Masterarbeit liegt diesem Repository als PDF bei: [`thesis/Masterarbeit_Horsthemke_2026.pdf`](thesis/Masterarbeit_Horsthemke_2026.pdf).
 
-Sobald die Code-Veröffentlichung über Zenodo archiviert ist, wird hier
-zusätzlich eine DOI ergänzt.
+**Code:**
+
+```
+Horsthemke, M. (2026). Fahrerlose U-Bahn: Reaktion auf Störungen
+(v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20160020
+```
 
 ## Voraussetzungen
 
