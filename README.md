@@ -23,6 +23,8 @@ zur Abbildung einer Beispielstörung im U-Bahn-Betrieb mit SUMO.
 Masterarbeit, Technische Universität Braunschweig.
 ```
 
+Die Masterarbeit liegt diesem Repository als PDF bei: [`thesis/Masterarbeit_Horsthemke_2026.pdf`](thesis/Masterarbeit_Horsthemke_2026.pdf).
+
 Sobald die Code-Veröffentlichung über Zenodo archiviert ist, wird hier
 zusätzlich eine DOI ergänzt.
 
@@ -130,6 +132,7 @@ Boxplots, Delta-Plots, Nested Loop, Parallel Coordinates) im Ausgabeverzeichnis.
 ├── network/                SUMO-Netz (OSM-basiert, U4 Frankfurt)
 ├── routes/                 Routendefinition (Umlaufroute)
 ├── config/                 SUMO-Konfiguration
+├── thesis/                 Masterarbeit als PDF
 ├── DIAGRAMME.md            Plot-Dokumentation
 ├── requirements.txt
 ├── LICENSE
